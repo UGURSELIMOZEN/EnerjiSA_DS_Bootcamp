@@ -1,4 +1,4 @@
-ÖDEV-3 | SORULAR
+# ÖDEV-3 | SORULAR
 
 1-) One hot encoding modelin görmediği veriye nasıl uygulanır?
 
