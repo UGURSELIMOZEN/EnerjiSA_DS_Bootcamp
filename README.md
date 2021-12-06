@@ -25,7 +25,8 @@
 - Evaluating & Deployment (Hyperparameter Tuning)
 
 
-
+</br>
+</br>
 <img width="1120" heigth="720" alt="dashboard1" src="https://github.com/UGURSELIMOZEN/EnerjiSA_DS_Bootcamp/blob/main/Bootcamp_Graduation_certificate.png">
 
 
